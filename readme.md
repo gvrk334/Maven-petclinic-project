@@ -1,6 +1,6 @@
 
 
-You can then access petclinic here: http://localhost:8080/petclinic/
+You can then access petclinic here: http://localhost:8080/petclinic
 
 
 
